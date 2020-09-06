@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Platform Version](https://medium.com/hardwareandro/android-platform-version-6abae75b304a?source=rss-350d6c9c2df8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@fatihkurcenli)
