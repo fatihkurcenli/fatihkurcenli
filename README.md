@@ -46,6 +46,7 @@
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihkurcenli&hide=contribs,prs)
 
 [website]: https://fatihkurcenli.com
 [twitter]: https://twitter.com/Kurcenlifatih
