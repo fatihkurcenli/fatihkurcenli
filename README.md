@@ -4,7 +4,7 @@
 
 ## I'm a Native Mobile Developer
 
-- 💻 I’m currently working on a [VBT Intern][ıntern]
+- 💻 I’m currently working on a new technology
 - 🌱 I’m currently learning mobile development 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write code 
