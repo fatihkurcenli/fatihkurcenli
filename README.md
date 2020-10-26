@@ -1,4 +1,4 @@
-### Hi there, I'm Fatih Kurçenli 👋
+### Hi there, I'm Fatih Kurçenli <img src="https://user-images.githubusercontent.com/34714108/97168664-dcfdfc80-1799-11eb-86ba-e799274a0319.gif" width="30px">
 
 <img width="720px" src="https://media.giphy.com/media/wEgs1cd7vDTt6/giphy.gif">
 
