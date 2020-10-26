@@ -30,7 +30,7 @@
 [<img align="left" alt="Adobe XD" width="26px" src="https://user-images.githubusercontent.com/34714108/92323838-80594d80-f044-11ea-8b11-11536eb28b6a.png" />][adobexd]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="SQL" width="20px" height="26px" src="https://user-images.githubusercontent.com/34714108/97003880-d62a7c00-1544-11eb-82e9-5e46b8c150fd.png" />][firebase]
-
+[<img align="left" alt="SQL" width="20px" height="26px" src="https://user-images.githubusercontent.com/34714108/97146511-05c1ca00-1779-11eb-81c5-9b2f7773bb76.png" />][zeplin]
 <br />
 <br />
 
@@ -61,3 +61,4 @@
 [adobexd]: https://www.adobe.com/tr/products/xd.html
 [sql]: https://www.mysql.com/
 [firebase]: https://firebase.google.com/
+[zeplin]: https://zeplin.io/
