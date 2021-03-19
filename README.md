@@ -39,10 +39,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Line Chart](https://medium.com/@fatihkurcenli/android-line-chart-621f56410883?source=rss-350d6c9c2df8------2)
-- [Android Retrofit](https://medium.com/@fatihkurcenli/android-retrofit-99903d8ab8ca?source=rss-350d6c9c2df8------2)
-- [Android Layouts](https://medium.com/@fatihkurcenli/android-layouts-16615ad2bda3?source=rss-350d6c9c2df8------2)
-- [MVVM Design Pattern with Flutter](https://medium.com/@fatihkurcenli/mvvm-design-pattern-with-flutter-a6886dbd0c03?source=rss-350d6c9c2df8------2)
+- [Android Line Chart](https://fatihkurcenli.medium.com/android-line-chart-621f56410883?source=rss-350d6c9c2df8------2)
+- [Android Retrofit](https://fatihkurcenli.medium.com/android-retrofit-99903d8ab8ca?source=rss-350d6c9c2df8------2)
+- [Android Layouts](https://fatihkurcenli.medium.com/android-layouts-16615ad2bda3?source=rss-350d6c9c2df8------2)
+- [MVVM Design Pattern with Flutter](https://fatihkurcenli.medium.com/mvvm-design-pattern-with-flutter-a6886dbd0c03?source=rss-350d6c9c2df8------2)
 - [Android Platform Version](https://medium.com/hardwareandro/android-platform-version-6abae75b304a?source=rss-350d6c9c2df8------2)
 <!-- BLOG-POST-LIST:END -->
 
