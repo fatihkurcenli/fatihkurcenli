@@ -2,7 +2,7 @@
 
 <img width="720px" src="https://media.giphy.com/media/wEgs1cd7vDTt6/giphy.gif">
 
-## I'm a Native Mobile Developer
+## I'm a Cross-Platform & Native Mobile Developer
 
 - 💻 I’m currently working on a Flutter and Native Android Application
 - 🌱 I’m currently learning mobile development 
