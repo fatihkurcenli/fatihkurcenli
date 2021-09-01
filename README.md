@@ -2,11 +2,11 @@
 
 <img width="720px" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-## I'm a Cross-Platform & Native Mobile Developer
+## I'm a Native Mobile Developer & Cross-Platform
 
 - 💻 I’m currently working on a Flutter and Native Android Application
 - 🌱 I’m currently learning mobile development 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Created more projects about Android
 - ⚡ Fun fact: I love to write code 
 
 
