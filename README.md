@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Harita ile Yer İşaretleri](https://medium.com/cnk-tech/google-harita-ile-yer-i%CC%87%C5%9Faretleri-d126f9836a0?source=rss-350d6c9c2df8------2)
 - [Flutter Star Background](https://medium.com/cnk-tech/flutter-star-background-d348f2409759?source=rss-350d6c9c2df8------2)
 - [Android Line Chart](https://medium.com/cnk-tech/android-line-chart-621f56410883?source=rss-350d6c9c2df8------2)
 - [Android Retrofit](https://medium.com/cnk-tech/android-retrofit-99903d8ab8ca?source=rss-350d6c9c2df8------2)
 - [Android Layouts](https://medium.com/cnk-tech/android-layouts-16615ad2bda3?source=rss-350d6c9c2df8------2)
-- [MVVM Design Pattern with Flutter](https://medium.com/cnk-tech/mvvm-design-pattern-with-flutter-a6886dbd0c03?source=rss-350d6c9c2df8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@fatihkurcenli)
