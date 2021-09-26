@@ -4,7 +4,7 @@
 
 ## I'm a Native Mobile Developer & Cross-Platform
 
-- 💻 I’m currently working on a Flutter and Native Android Application
+- 💻 I’m currently working on a Native Android Application
 - 🌱 I’m currently learning mobile development 
 - 🥅 2021 Goals: Created more projects about Android
 - ⚡ Fun fact: I love to write code 
