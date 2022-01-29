@@ -5,8 +5,8 @@
 ## I'm a Native Mobile Developer & Cross-Platform
 
 - 💻 I’m currently working on a Native Android Application
-- 🌱 I’m currently learning mobile development 
-- 🥅 2021 Goals: Created more projects about Android
+- 🌱 I’m currently learning mobile development and backend technology(Java and Kotlin) 
+- 🥅 2022 Goals: Created more projects about Android
 - ⚡ Fun fact: I love to write code 
 
 
@@ -52,7 +52,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihkurcenli&hide=contribs,prs)
 
-[website]: https://fatihkurcenli.com
+[website]: https://fatihkurcenli.github.io/
 [twitter]: https://twitter.com/Kurcenlifatih
 [instagram]: https://instagram.com/fatihkurcenli
 [linkedin]: https://linkedin.com/in/fatihkurcenli
