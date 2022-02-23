@@ -52,6 +52,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihkurcenli&hide=contribs,prs)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihkurcenli&label=Views&color=blue" alt="gurupreet" /> </p>
+
 [website]: https://fatihkurcenli.github.io/
 [twitter]: https://twitter.com/Kurcenlifatih
 [instagram]: https://instagram.com/fatihkurcenli
