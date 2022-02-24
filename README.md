@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video Quality on Android](https://fatihkurcenli.medium.com/video-quality-on-android-be40d7ed62ad?source=rss-350d6c9c2df8------2)
 - [Ktor-Android&lpar;Kotlin&rpar; WebSocket ile Chat Uygulaması](https://fatihkurcenli.medium.com/ktor-android-kotlin-websocket-ile-chat-uygulamas%C4%B1-a757d445fd04?source=rss-350d6c9c2df8------2)
 - [Google Harita ile Yer İşaretleri](https://medium.com/cnk-tech/google-harita-ile-yer-i%CC%87%C5%9Faretleri-d126f9836a0?source=rss-350d6c9c2df8------2)
 - [Flutter Star Background](https://medium.com/cnk-tech/flutter-star-background-d348f2409759?source=rss-350d6c9c2df8------2)
 - [Android Line Chart](https://medium.com/cnk-tech/android-line-chart-621f56410883?source=rss-350d6c9c2df8------2)
-- [Android Retrofit](https://medium.com/cnk-tech/android-retrofit-99903d8ab8ca?source=rss-350d6c9c2df8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@fatihkurcenli)
