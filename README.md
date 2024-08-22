@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on a Native Android Application
 - 🌱 I’m currently learning mobile development and backend technology(Java and Kotlin) 
-- 🥅 2022 Goals: Created more projects about Android
+- 🥅 2024 Goals: Created more projects about Android
 - ⚡ Fun fact: I love to write code 
 
 
